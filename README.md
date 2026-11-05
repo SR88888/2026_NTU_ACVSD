@@ -8,10 +8,12 @@ Coursework from the 2026 **Advanced Computer-Aided VLSI System Design (ACVSD)** 
 | --- | --- | --- |
 | HW1 | Lossy Bitmask Encoder with low-power design | [Specification](Homework/1/114-2_HW1.pdf), [submission](Homework/1/acvsd-16-hw1-v1.tar.gz) |
 | HW2 | Rotation Invariant Local Binary Pattern | [Specification](Homework/2/114-2_HW2_v2.pdf), [submission](Homework/2/acvsd016-hw2-v3.tar.gz) |
-| HW3 | Low Power Matrix Accelerator | [Project notes](Homework/3/114-2_HW3_note_v3.pdf), [submission](Homework/3/acvsd-16-hw3-v2.tar.gz) |
+| HW3 | Low Power Matrix Accelerator | [Project notes](Homework/3/114-2_HW3_note_v3.pdf), [submission — known functional defects](Homework/3/acvsd-16-hw3-v2.tar.gz) |
 | HW4 | APR with scan-chain design and pad integration | [Specification](Homework/4/1142_HW4_v2.pdf), [report](Homework/4/b11901063_report.pdf) |
 | Midterm | Vision Transformer Patch Embedding Accelerator | [Specification](Midterm/114-2_midterm_v1.pdf), [submission](Midterm/acvsd-16-midterm-v1.tar.gz) |
 | Final | Multi-Core GEMM Accelerator | [Project slides](Final/114_2_final_slide_v6.pdf), [submission](Final/acvsd-hw-team5-final.tar.gz) |
+
+> **Known issue — HW3:** The `acvsd-16-hw3-v2.tar.gz` submission contains functional defects.
 
 ## Submission Archive Contents
 
